@@ -1,0 +1,17 @@
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/.agents/
+/.agents/*
+!/.agents/skills/
+/.agents/skills/*
+!/.agents/skills/ai-second-brain-study/
+/.agents/skills/ai-second-brain-study/*
+!/.agents/skills/ai-second-brain-study/SKILL.md
+!/.agents/skills/ai-second-brain-study/references/
+/.agents/skills/ai-second-brain-study/references/*
+!/.agents/skills/ai-second-brain-study/references/assessment.md
+!/.agents/skills/ai-second-brain-study/references/storage.md
+!/.agents/skills/ai-second-brain-study/references/source-method.md
